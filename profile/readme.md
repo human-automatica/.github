@@ -1,57 +1,53 @@
-# Human Automatica
+Human Automatica
+----------------
 
-**Human judgment. Structured intelligence.**
+This started with wanting to build something with AI.
 
-Human Automatica is a practice for building AI systems where human judgment stays inside the loop — not as a checkpoint, but as the operating model.
+A GPT account. Some prompt-based agents. Then a bigger project, and the realization that the work needed rules to stay coherent. So the rules got written. Then the rules needed somewhere to live so the next project could use them. So work stopped on the actual project to build a system for managing projects.
 
-That means governed automation. Structured knowledge. Decisions recorded and traceable. Agents that execute precisely what was intended, no more.
+Then the system needed a builder. And the builder needed a system.
 
----
+At some point it became clear that the most useful thing to build first was not the end product but the foundation that makes all end products better. That foundation became the practice. The practice needed a name. Human Automatica is that name.
 
-## What this is
+The mark came next. Seeing how a simple glyph could carry so much of what had been driving this work made it feel real in a way the files and folders hadn't quite done on their own. Human-readable, machine-shaped, and designed to reward a second look.
 
-A personal AI systems practice, built and running. The work spans:
+What appears in this organization is selected from a larger private practice, published when something has proven useful beyond the context it came from. The goal is to share what worked and sometimes what did not, so others can pick it up and go further.
 
-- **Agent ecosystems** — multi-model workflows with defined execution lanes, task specs, and completion records
-- **Knowledge architecture** — library pipelines that accumulate and retrieve structured knowledge rather than letting it evaporate
-- **Governance frameworks** — promotion rules, scope contracts, working dictionaries, and decision records that keep systems coherent over time
-- **Tooling** — dashboards, file watchers, notification bridges, and the scaffolding that makes the whole thing observable
+If you are somewhere in that same loop, trying to figure out how to make the work hold together over time, you are invited to explore, discuss, or possibly collaborate.
 
-The philosophy is simple: automation should be shaped and governed, not left to run unchecked. The human remains the conductor.
+* * * *
 
----
+### What this is
 
-## What you'll find here
+A personal AI systems practice, built, running, continually evolving. The work spans:
 
-Repositories will be published as the practice matures. Expect:
+-   Agent ecosystems, multi-model workflows with defined execution lanes, task specs, and completion records
+-   Knowledge architecture, library pipelines that accumulate and retrieve structured knowledge rather than letting it evaporate
+-   Governance frameworks, promotion rules, scope contracts, working dictionaries, and decision records that keep systems coherent over time
+-   Tooling, dashboards, file watchers, notification bridges, and the scaffolding that makes the whole thing observable
 
-- Frameworks extracted from active development — reusable, documented, and ready to apply
-- Tooling for human-guided agent workflows
-- Knowledge architecture patterns
-- Case studies from real projects
+Trusted automation must be shaped and governed, not left to run unchecked. The human remains the conductor.
 
-Nothing here is proof-of-concept. Everything published has been used.
+* * * *
 
----
+### What you will find here
 
-## Principles
+Selected artifacts from active work. Published when something has proven useful beyond the context it came from and stable enough to stand on its own.
 
-**Architecture before code.** Structure is defined before execution begins. No agent runs without a task spec.
+Nothing here is proof-of-concept. Everything published has been, or is being, used.
 
-**Governance by design.** Rules, contracts, and scope boundaries are documented, not assumed. Decisions have records.
+* * * *
 
-**Durable artifacts.** The output of good work is something you can hand to a future version of yourself and still understand.
+**Learned principles**
 
-**Human in the loop.** Not as a bottleneck — as a design requirement.
+The work is collaborative by design. Good automation starts with conversation. The structure gets worked out together, then the system executes it. That order matters.
 
----
+Architecture before execution. No agent runs well without knowing exactly what it is supposed to do.
 
-## Status
+Governance by design. Rules, contracts, and scope boundaries are documented rather than assumed. Undocumented systems drift.
 
-Active practice. Early public presence. More to come.
+The focus has been on deterministic, verifiable behavior. If a result cannot be confirmed, should it be trusted?
 
-→ [humanautomatica.com](https://humanautomatica.com)
+* * * *
 
----
-
-*Human Automatica · Human judgment. Structured intelligence.*
+[humanautomatica.com](https://humanautomatica.com)
