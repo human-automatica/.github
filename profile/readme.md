@@ -9,7 +9,7 @@ The rules needed a system. The system needed a builder. The builder needed a sys
 
 At some point the most useful thing to build was the foundation. That foundation is Human Automatica. I am building the infrastructure to be able to build a product later. This is setup work. It is the preparation that reduces chaos later and creates a place for ideas to land.
 
-### Current Layer: [infrastructure]
+### Current Layer: [grounding]
 
 ---
 
