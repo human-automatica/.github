@@ -1,4 +1,4 @@
-`[reference]`
+` [reference]`
 
 # Human Automatica
 **Human judgment. Structured intelligence.**
@@ -9,7 +9,7 @@ The rules needed a system. The system needed a builder. The builder needed a sys
 
 At some point the most useful thing to build was the foundation. That foundation is Human Automatica. I am building the infrastructure to be able to build a product later. This is setup work. It is the preparation that reduces chaos later and creates a place for ideas to land.
 
-### Current Layer: [grounding]
+### Current Layer: [infrastructure]
 
 ---
 
@@ -34,10 +34,10 @@ These are the patterns that keep the automation shaped and governed.
 ---
 
 ## The Door is Open
-Most of the conversation around AI right now is focused on quick results. When I talk about governance and deterministic systems, everybody else just nods. This is me trying to find the people who actually want to look at the gears.
+Most people just nod when I talk about these systems. This practice is a light in the dark for others who are in a similar spot and seeing the same things. I am looking for the people who actually want to look at the gears.
 
-This isn't being done to be famous. It is just my passion and a light in the dark. I am hoping to find the others who are in a similar spot and seeing the same things. 
+This isn't being done to be famous. It is an honest look at the work for the people who want to move past the hype. If you are willing to engage and trade notes, I am happy to share what I have found. 
 
-If you are in that spot or just curious, reach out. If you are willing to engage and trade notes, I will bend over backwards to be helpful.
+Reach out if you are curious. The welcome is real.
 
-[humanautomatica.com]
+[humanautomatica.com](https://humanautomatica.com)
